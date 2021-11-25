@@ -9,4 +9,4 @@ Transaction cost: 990 USD
 bonus: 180 USD
 Ether value: 1341 USD
 Total deposit: 40,074 USD
-Total Claimable: 
+Total Claimable: 32%
