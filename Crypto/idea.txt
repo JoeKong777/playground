@@ -1,2 +1,12 @@
-Test Crypto Ideas
-Mining and staking
+CRV: Curve DAO Token
+
+Curve DAO Token (CRV) is an Ethereum token that powers Curve.fi, a decentralized exchange and automated market maker protocol. The protocol is designed to make it easy to swap between similar ERC-20 tokens, primarily stablecoins (like USDC and DAI) and Ethereum-based Bitcoin tokens (like WBTC and renBTC).
+
+In order to minimize impermanent loss, the protocol only hosts pools of similar assets. This means you can provide USDC-DAI-USDT liquidity on Curve, but not, for example, USDC-WBTC. The CRV token can be locked for various periods of time (up to 4 years) in order to vote on governance and claim protocol fees as a reward.
+
+
+Transaction cost: 990 USD
+bonus: 180 USD
+Ether value: 1341 USD
+Total deposit: 40,074 USD
+Total Claimable: 
